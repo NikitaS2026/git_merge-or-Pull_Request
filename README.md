@@ -1,3 +1,5 @@
+Задание на зваимодействие с платформой Github
+
 # git_merge-or-Pull_Request
 <img width="822" height="361" alt="изображение" src="https://github.com/user-attachments/assets/8fb58be1-4816-4344-aae6-cf262c455ddc" />
 
